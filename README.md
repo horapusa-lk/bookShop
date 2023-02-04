@@ -76,7 +76,7 @@ Run main.py
 | :-------- | :------- | :-------------------------------- |
 | `bookId`      | `int` | **Required**. Id of the book |
 
-#### Delete book by ID
+#### Create book
 
 ```http
   GET /createBook
